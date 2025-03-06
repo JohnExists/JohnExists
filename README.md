@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone👋, I'm John Kolta</h1>
 <h3 align="center"> I'm A Passionate Computer Engineer Seeking 2025 New Grad Roles!</h3>
 
-- 🔭 I’m currently working on **Embedded Systems** Projects using an **STM32** and **Raspberry Pi**
+- 🔭 I’m currently working on **Embedded Systems** Projects using an **STM32**, **ESP32** and **Raspberry Pi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
